@@ -22,9 +22,9 @@ var myApp = new Framework7({
     	name: 'productos',
   		},
 		{
-		path: '/info-producto/',
-    	url: 'productos.html',
-    	name: 'productos',
+		path: '/productosdos/',
+    	url: 'productosdos.html',
+    	name: 'productosdos',
   		}
 	]
 });
